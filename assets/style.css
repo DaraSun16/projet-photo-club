@@ -108,12 +108,12 @@ main {
 #divAgenda {
   flex-grow: 2;
 }
-.BoxMois {
+.boxMois {
   border-radius: 15px;
   margin-top: 5%;
   overflow:hidden;
 }
-.BoxMoisTitre {
+.boxMoisTitre {
   text-align: center;
   background-color: #FFC9A3;
   padding:1%;
